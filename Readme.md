@@ -1,0 +1,1 @@
+EVERY CONCEPT OF DJANGO WILL BE discussed here
